@@ -1,6 +1,5 @@
 #_*_coding:utf-8_*_
 import pymongo
-
 class bangdan24:
     def __init__(self):
         self.mid=None
